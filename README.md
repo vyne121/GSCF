@@ -83,3 +83,7 @@ select count(num) from my_numbers;
 - You can use any Java versions, libraries, frameworks and tools.
 - feature file which should be implemented is located here: https://github.com/matepapphu/interview/blob/main/task.feature
 
+To run the tests just run this command:
+```
+mvn clean install
+```
